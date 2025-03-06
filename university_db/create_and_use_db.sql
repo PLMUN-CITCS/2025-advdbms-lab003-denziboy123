@@ -1,0 +1,4 @@
+
+USE `UniversityDB`;
+
+SELECT DATABASE(); 
